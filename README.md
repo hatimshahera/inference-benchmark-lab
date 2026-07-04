@@ -51,7 +51,6 @@ Each stage is timed with `performance.now()`.
 ## Run locally
 
 ```bash
-cd tool-02-ai-inference-benchmark-lab
 npm install
 npm run dev
 ```
@@ -82,10 +81,4 @@ None. Everything runs client-side.
 
 ## Links
 
-- Live demo: _placeholder_
-- Public repo: _placeholder_
-- Reel / social: _placeholder_
-
-## Status
-
-in-progress
+- Repository: https://github.com/hatimshahera/inference-benchmark-lab

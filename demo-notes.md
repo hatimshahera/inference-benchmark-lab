@@ -33,7 +33,7 @@ the prediction.
 - Side-by-side: MobileNet 95% vs. SqueezeNet 67% on the same image.
 - The exported Markdown report.
 
-## Reel hook ideas
+## Short demo script
 
 > "Day 2 of building 60 AI tools in 60 days: I built a browser-based AI
 > inference benchmark — not just an AI app, but a tool that measures how fast
