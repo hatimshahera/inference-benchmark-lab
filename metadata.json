@@ -1,0 +1,24 @@
+{
+  "id": "tool-02",
+  "day": 2,
+  "title": "AI Inference Benchmark Lab",
+  "slug": "inference-benchmark-lab",
+  "repoFolder": "tool-02-ai-inference-benchmark-lab",
+  "description": "A browser-based ML inference playground that runs an image model locally and measures cold start time, preprocessing time, inference latency, confidence score, and backend performance.",
+  "status": "in-progress",
+  "skills": [
+    "ONNX Runtime Web",
+    "Browser-based inference",
+    "WebGPU/WASM",
+    "Image preprocessing",
+    "Latency measurement",
+    "Performance profiling",
+    "Model deployment"
+  ],
+  "category": "Machine Learning",
+  "liveUrl": "",
+  "githubUrl": "",
+  "reelUrl": "",
+  "writeupUrl": "",
+  "lesson": "The benchmark is the product: measuring cold start, warm latency, and backend performance matters more than the prediction itself."
+}
