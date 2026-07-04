@@ -17,7 +17,7 @@
   ],
   "category": "Machine Learning",
   "liveUrl": "",
-  "githubUrl": "",
+  "githubUrl": "https://github.com/hatimshahera/inference-benchmark-lab",
   "reelUrl": "",
   "writeupUrl": "",
   "lesson": "The benchmark is the product: measuring cold start, warm latency, and backend performance matters more than the prediction itself."
