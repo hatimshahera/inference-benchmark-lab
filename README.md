@@ -82,3 +82,7 @@ None. Everything runs client-side.
 ## Links
 
 - Repository: https://github.com/hatimshahera/inference-benchmark-lab
+
+## Support Me
+
+If this helped you, you can support my work here: [buymeacoffee.com/hatimshahera](https://buymeacoffee.com/hatimshahera)
